@@ -1,1 +1,2 @@
-# ssr-imagesearch
+# imagesearch
+react image search app
